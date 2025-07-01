@@ -45,5 +45,6 @@ A customer lifespan of under 10 months means churn is likely impacting overall L
 **Production is Lean:**
 
 The fact that COGS is entirely attributed to "Production salary" and the gross margin is high suggests that the core service delivery is efficient from a cost perspective.
+
 For more details, please refer to the colab link (or the attached file): 
 https://colab.research.google.com/drive/1x9VlA24H_qz44uKOonITMCRq6fQqYyRc?usp=sharing
